@@ -1,0 +1,16 @@
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\bin\Debug\net5.0\Lession1.exe
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\bin\Debug\net5.0\Lession1.deps.json
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\bin\Debug\net5.0\Lession1.runtimeconfig.json
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\bin\Debug\net5.0\Lession1.runtimeconfig.dev.json
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\bin\Debug\net5.0\Lession1.dll
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\bin\Debug\net5.0\ref\Lession1.dll
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\bin\Debug\net5.0\Lession1.pdb
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\Lession1.csproj.AssemblyReference.cache
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\Lession1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\Lession1.AssemblyInfoInputs.cache
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\Lession1.AssemblyInfo.cs
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\Lession1.csproj.CoreCompileInputs.cache
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\Lession1.dll
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\ref\Lession1.dll
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\Lession1.pdb
+D:\Разработка Игр\!!! 2 Четверь\1 курс - Архитектура и шаблоны\домашки на гите\Architecture\Lession1\Lession1\obj\Debug\net5.0\Lession1.genruntimeconfig.cache
